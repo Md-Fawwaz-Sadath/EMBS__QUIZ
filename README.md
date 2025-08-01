@@ -2,6 +2,11 @@
 
 A team-based quiz website with a real-time leaderboard, built for IEEE EMBS club events.
 
+## 🌐 Live URLs
+
+- **Main Website**: [https://embsquiz.web.app](https://embsquiz.web.app)
+- **Live Leaderboard**: [https://embsquiz.web.app/leaderboard.html](https://embsquiz.web.app/leaderboard.html)
+
 ## Features
 
 - Interactive quiz interface with multiple-choice questions
